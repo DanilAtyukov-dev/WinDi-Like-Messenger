@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "WinDi-Like-Messenger"
 include(":app")
- 
+include(":data")
+include(":data:user")
